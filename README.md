@@ -1,8 +1,9 @@
 # The International Hustling Company
 
 ```md
-Can be accessed with the following link: [InternationalHustling](http://www.internationalhustling.co/)
+Can be accessed with the following link:
 ```
+[InternationalHustling](http://www.internationalhustling.co/)
 
 The rules of International Hustling:
 
